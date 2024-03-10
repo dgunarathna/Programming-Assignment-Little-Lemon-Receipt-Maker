@@ -59,4 +59,5 @@ function getDiscount(taxBoolean, guests) {
 getDiscount(true, 2);
 getDiscount(false, 10);
 
+// getPrices(false);
 
